@@ -1,1 +1,1 @@
-Toto je civcnie na git.
+Toto je cvičenie na git.
